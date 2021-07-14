@@ -7,7 +7,7 @@
 - 🌱 I’m currently leading GDSC, a community based tech club
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love coding and writing
+- ⚡ Fun fact: I love coding
 
 ## [Portfolio Link](https://danmasanii.github.io/portfolio/)
 
