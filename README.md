@@ -9,5 +9,5 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love coding and writing
 
-## [Portfolio Link](https://danmasanii.github.io/glassmorphism-portfolio/)
+## [Portfolio Link](https://danmasanii.github.io/portfolio/)
 
