@@ -4,7 +4,7 @@
 
 ## I'm a Front End Developer, and a Technical writer!
 
-- 🌱 I current lead GDSC, a university based tech club
+- 🌱 I currently lead GDSC, a university-based tech club
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love coding
